@@ -7,7 +7,7 @@ This project allows you to chat with LLaMA locally using Gradio (or Streamlit).
 
 Chat with the LLaMA model in real-time
 
-Clean and responsive UI (Gradio/Streamlit)
+Clean and responsive UI (Gradio)
 
 Supports conversation history
 
